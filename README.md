@@ -1,7 +1,7 @@
 # StudyBOT
 **📚 Study Bot 說明文件** 📚
 
-**這是一個discord機器人，用來記錄使用者的讀書時間
+**這是一個discord機器人，用來記錄使用者的讀書時間**
 
 **指令說明：**
 **%studytime**
