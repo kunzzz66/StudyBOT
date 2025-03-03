@@ -35,7 +35,7 @@ class StudyBOT(commands.Bot):
         # for command in self.commands:
         #     print(command.name)
     
-    '''進入讀書間開始計時讀書時間'''
+    # 進入讀書間開始計時讀書時間
     async def on_voice_state_update(self, member, before, after):
         await updateState(member, before, after, self.studyTracker)
     
